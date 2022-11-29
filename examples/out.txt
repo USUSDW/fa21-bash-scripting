@@ -1,0 +1,5 @@
+ls: cannot access 'FILEDNE': No such file or directory
+.:
+basics.sh
+out.txt
+rc-shortcuts.sh
